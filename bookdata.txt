@@ -1,0 +1,6 @@
+Electrical|34
+chemestry|50
+Biology|100
+Mathematical|67
+Physics|56
+Computer Science|60
