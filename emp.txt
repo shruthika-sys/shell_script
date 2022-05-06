@@ -1,0 +1,6 @@
+3001|nayak|Executive|02-03-2022|30000
+3002|gayak|Executive|05-03-2022|40000
+3003|dayak|Executive|02-08-2022|30800
+3004|sayak|Executive|02-09-2022|20000
+3005|mayak|Executive|07-03-2022|38000
+3006|kayak|Executive|04-03-2022|10000
