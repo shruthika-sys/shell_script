@@ -1,6 +1,6 @@
 #Write a shell script that gets executed and displays the message either “Good Morning” or
 #“Good Afternoon” or “Good Evening” depending upon time at which the user logs in.
-#h=`date +%H`
+h=`date +%H`
 h=$1
 u=`whoami`
 echo " user logged in terminal at: $h"
