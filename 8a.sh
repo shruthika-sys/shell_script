@@ -1,3 +1,6 @@
+#Write a shell script that determine the period for which as specified user is working on a
+#system and display appropriate message.
+
 echo -e "enter the user name :\c"
 read usr
 tuser=`who | tr -s " " | head -1 | cut -d " " -f1`
