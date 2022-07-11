@@ -1,0 +1,40 @@
+h1
+{
+color:blue;
+}
+p{
+    background-color:orange;
+    border-color: greenyellow;
+    border-bottom-style: groove;
+    border-radius: 20px;
+    border-top-style: dotted;
+}
+table{
+    border-color: rgb(160, 18, 18);
+    padding: 20px;
+    margin: 10px;
+    height: 100px;
+    width: 100px;
+}
+td {
+    background-color: rgb(19, 133, 133);
+    border-color: blue;
+    height: 50px;
+    width: 50px;
+}
+
+
+ul{
+    color: red;
+}
+ol{
+    color: black;
+}
+li{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+div{
+    border-style: dotted;
+    background-color: aqua;
+    width:700px;
+}
